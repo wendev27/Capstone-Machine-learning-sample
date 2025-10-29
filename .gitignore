@@ -21,3 +21,8 @@ build/
 # IDE folders
 .vscode/
 .idea/
+
+venv/
+.env/
+env/
+.venv/
